@@ -1,0 +1,27 @@
+{
+  "name": "localSlack",
+  "version": "0.0.1",
+  "description": "localSlack wishes to be the feed for the current Slackline community with the goal of aiding in transparency and connecting the community better.",
+  "main": "lib/app.js",
+  "dependencies": {
+    "hbase": "~0.1.6",
+    "fetchka": "0.0.2",
+    "log4js": "^0.6.15"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/streed/localSlack"
+  },
+  "author": "Sean Reed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/streed/localSlack/issues"
+  },
+  "homepage": "https://github.com/streed/localSlack"
+}
